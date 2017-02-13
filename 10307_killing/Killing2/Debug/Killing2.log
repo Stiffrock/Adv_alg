@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\killing2\source.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\killing2\source.cpp(93): warning C4101: 'v': unreferenced local variable
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\killing2\source.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\killing2\source.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\killing2\source.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\killing2\source.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\killing2\source.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\killing2\source.cpp(200): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\killing2\source.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\killing2\source.cpp(172): warning C4101: 'startp': unreferenced local variable
+  Killing2.vcxproj -> c:\users\stoffe\documents\visual studio 2015\Projects\10307_killing\Debug\Killing2.exe
+  Killing2.vcxproj -> c:\users\stoffe\documents\visual studio 2015\Projects\10307_killing\Debug\Killing2.pdb (Partial PDB)

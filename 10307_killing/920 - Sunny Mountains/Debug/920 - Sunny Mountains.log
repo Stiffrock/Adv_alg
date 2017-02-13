@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\920 - sunny mountains\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\920 - sunny mountains\source.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  920 - Sunny Mountains.vcxproj -> C:\Users\Stoffe\documents\visual studio 2015\Projects\10307_killing\Debug\920 - Sunny Mountains.exe
+  920 - Sunny Mountains.vcxproj -> C:\Users\Stoffe\documents\visual studio 2015\Projects\10307_killing\Debug\920 - Sunny Mountains.pdb (Partial PDB)

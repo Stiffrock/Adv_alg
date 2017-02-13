@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (10307_killing.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10307_killing\source.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10307_killing\source.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10307_killing\source.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10307_killing\source.cpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10307_killing\source.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10307_killing\source.cpp(203): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10307_killing\source.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10307_killing\source.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10307_killing\source.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10307_killing\source.cpp(197): warning C4101: 'startp': unreferenced local variable
+  10307_killing.vcxproj -> C:\Users\Stoffe\documents\visual studio 2015\Projects\10307_killing\Debug\10307 - Killing aliens.exe
+  10307_killing.vcxproj -> C:\Users\Stoffe\documents\visual studio 2015\Projects\10307_killing\Debug\10307 - Killing aliens.pdb (Partial PDB)

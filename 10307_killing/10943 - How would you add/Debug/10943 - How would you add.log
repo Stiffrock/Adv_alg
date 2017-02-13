@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10943 - how would you add\source.cpp(52): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\10943 - how would you add\source.cpp(98): warning C4018: '<': signed/unsigned mismatch
+  10943 - How would you add.vcxproj -> C:\Users\Stoffe\documents\visual studio 2015\Projects\10307_killing\Debug\10943 - How would you add.exe
+  10943 - How would you add.vcxproj -> C:\Users\Stoffe\documents\visual studio 2015\Projects\10307_killing\Debug\10943 - How would you add.pdb (Partial PDB)

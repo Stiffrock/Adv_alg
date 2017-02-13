@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\11054 - wine trading\source.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\11054 - wine trading\source.cpp(49): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type '__int64 *'
+  c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\11054 - wine trading\source.cpp(49): note: consider using '%lld' in the format string
+  c:\users\stoffe\documents\visual studio 2015\projects\10307_killing\11054 - wine trading\source.cpp(49): note: consider using '%I64d' in the format string
+  11054 - Wine Trading.vcxproj -> C:\Users\Stoffe\documents\visual studio 2015\Projects\10307_killing\Debug\11054 - Wine Trading.exe
+  11054 - Wine Trading.vcxproj -> C:\Users\Stoffe\documents\visual studio 2015\Projects\10307_killing\Debug\11054 - Wine Trading.pdb (Partial PDB)
